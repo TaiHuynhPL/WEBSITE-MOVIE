@@ -1,0 +1,19 @@
+.movieList {
+  padding: 0.8rem 0;
+  margin-bottom: 3.2rem;
+  margin-top: 1.2rem;
+  display: flex;
+  gap: 0.8rem;
+  overflow-x: overlay;
+  overflow-y: hidden;
+}
+
+.movieList img {
+  width: 12%;
+  cursor: pointer;
+  transition: all 0.15s ease-in;
+}
+
+.movieList img:hover {
+  transform: scale(1.1);
+}

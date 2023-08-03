@@ -1,0 +1,21 @@
+.containerOption {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1.6rem;
+  margin-bottom: 2.4rem;
+}
+
+.itemOption {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.itemOption label {
+  font-size: 1.2rem;
+}
+
+.itemOption select {
+  padding: 0.2rem 0.4rem;
+}

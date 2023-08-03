@@ -1,0 +1,36 @@
+.movie {
+  padding: 1.2rem 2.4rem;
+  display: flex;
+  gap: 2.4rem;
+}
+
+.detail {
+  width: 50%;
+}
+
+.detail h4 {
+  padding: 1.2rem 0;
+  font-size: 1.6rem;
+  border-bottom: 2px solid #fff;
+}
+
+.date {
+  margin: 1.2rem 0 0.4rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.vote {
+  margin-bottom: 1.2rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.video {
+  width: 50%;
+}
+
+.youtube,
+.backdrop {
+  width: 100%;
+}

@@ -1,0 +1,51 @@
+.searchFrom {
+  background-color: #fff;
+  width: 50%;
+  margin: 4.2rem auto;
+}
+
+.input {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  align-items: center;
+  padding: 1.6rem 1.2rem;
+  border-bottom: 3px solid #4cb5ea;
+}
+
+.input input {
+  width: 90%;
+  height: 3.2rem;
+  border: none;
+  font-size: 1.6rem;
+}
+
+.input input:focus {
+  outline: none;
+}
+
+.input svg {
+  height: 2.4rem;
+}
+
+.btn {
+  padding: 1.2rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.8rem;
+}
+
+.btn button {
+  padding: 0.8rem 1.2rem;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.btn button.btnSearch {
+  background-color: #4cb5ea;
+  color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}

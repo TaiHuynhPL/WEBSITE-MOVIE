@@ -1,0 +1,16 @@
+.title {
+  font-size: 2rem;
+  margin-left: 1.2rem;
+}
+
+.list {
+  margin: 2.2rem;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 1.2rem;
+}
+
+.item {
+  width: 100%;
+  cursor: pointer;
+}
