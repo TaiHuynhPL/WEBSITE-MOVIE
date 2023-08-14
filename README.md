@@ -1,9 +1,13 @@
-WEBSITE MOVIE
+**WEBSITE MOVIE**
 
-The web includes two functions to search for information as well as search for movies.
+- The reason for creating the project: The application makes it easy for users to search for movies, allowing you to view a list of movies by genre.
 
-//Link sever:
+- Describe: The web includes two functions to search for information as well as search for movies. Users can view information about the movie they want, including: name, release date, rating, description and trailer.
+
+- Technology in use: ReactJS, CSS, Javascript, NodeJS, MongoDB, Express
+
+- Link demo sever:
 https://movie-server-phi.vercel.app/
 
-//Link client:
+- Link demo client:
 https://movie-client-bay.vercel.app/
