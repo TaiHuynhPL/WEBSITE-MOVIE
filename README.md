@@ -11,3 +11,5 @@ https://movie-server-phi.vercel.app/
 
 - Link demo client:
 https://movie-client-bay.vercel.app/
+
+- Instructions to run the program on local: open terminal => run "npm install" => run "npm start"
